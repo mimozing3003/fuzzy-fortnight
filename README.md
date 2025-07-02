@@ -15,7 +15,7 @@
 This project is a **fully responsive, modern animated website** created using **React**, **Vite**, and **Tailwind CSS**.  
 It features smooth **GSAP animations**, clean design, and lightning-fast performance — perfect for my journey as a student web developer.
 
-🔗 **Live Demo**: [Click Here](https://award-winning-website-cgjmzzent-saumojit-roys-projects.vercel.app/)  
+🔗 **Live Demo**: [Click Here](https://fuzzy-fortnight-syta.vercel.app/)  
 🧑‍💻 **Author**: [Saumojit Roy](https://github.com/mimozing3003)
 
 ---
