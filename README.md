@@ -1,5 +1,5 @@
 
-<h1 align="center">✨ Saumojit Roy's Web Dev Portfolio ✨</h1>
+<h1 align="center">✨ Saumojit Roy's Web Dev Project ✨</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-FE-blue?style=for-the-badge&logo=react" />
